@@ -1,0 +1,10 @@
+com\lfa\springproject1\dao\GenericDAO.class
+com\lfa\springproject1\controller\DefaultController.class
+com\lfa\springproject1\cache\CategoryCache.class
+com\lfa\springproject1\dao\impl\CategoryDAOImpl.class
+com\lfa\springproject1\service\impl\ServiceImpl.class
+com\lfa\springproject1\dao\CategoryDAO.class
+com\lfa\springproject1\dao\impl\CategoryDAOImpl$1.class
+com\lfa\springproject1\entity\Category.class
+com\lfa\springproject1\service\CategoryService.class
+com\lfa\springproject1\service\GenericService.class
